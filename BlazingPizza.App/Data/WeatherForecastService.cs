@@ -1,4 +1,4 @@
-namespace BlazingPizza.Data;
+namespace BlazingPizza.App.Data;
 
 public class WeatherForecastService
 {

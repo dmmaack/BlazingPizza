@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
-using BlazingPizza.Data;
+using BlazingPizza.App.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 

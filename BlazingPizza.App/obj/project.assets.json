@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TEMP\\Estudos\\MicrosoftLearn_Blazor\\BlazingPizza\\BlazingPizza\\BlazingPizza.csproj",
-      "projectName": "BlazingPizza",
-      "projectPath": "D:\\TEMP\\Estudos\\MicrosoftLearn_Blazor\\BlazingPizza\\BlazingPizza\\BlazingPizza.csproj",
+      "projectUniqueName": "D:\\TEMP\\Estudos\\MicrosoftLearn_Blazor\\BlazingPizza\\BlazingPizza.App\\BlazingPizza.App.csproj",
+      "projectName": "BlazingPizza.App",
+      "projectPath": "D:\\TEMP\\Estudos\\MicrosoftLearn_Blazor\\BlazingPizza\\BlazingPizza.App\\BlazingPizza.App.csproj",
       "packagesPath": "C:\\Users\\danielmaack\\.nuget\\packages\\",
-      "outputPath": "D:\\TEMP\\Estudos\\MicrosoftLearn_Blazor\\BlazingPizza\\BlazingPizza\\obj\\",
+      "outputPath": "D:\\TEMP\\Estudos\\MicrosoftLearn_Blazor\\BlazingPizza\\BlazingPizza.App\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\danielmaack\\AppData\\Roaming\\NuGet\\NuGet.Config"

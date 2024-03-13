@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kjhDCPiLxDIhtqCMDD/NFXN+Ikdbc3+ZJbHAyMEvLQhTg/k7CD9EI/t96yEGmyB8g43iMzQ+iO3rmaNRFHNgEA==",
+  "dgSpecHash": "mtSFlmLqPnncVitw/ekwKTqNRb0N+d4UDIyAmlnrT8BBxAZrF5f2AEXyFJdCVusyrfSrw3qUdI/ZPm06WTFJ4w==",
   "success": true,
-  "projectFilePath": "D:\\TEMP\\Estudos\\MicrosoftLearn_Blazor\\BlazingPizza\\BlazingPizza\\BlazingPizza.csproj",
+  "projectFilePath": "D:\\TEMP\\Estudos\\MicrosoftLearn_Blazor\\BlazingPizza\\BlazingPizza.App\\BlazingPizza.App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\danielmaack\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
     "C:\\Users\\danielmaack\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
